@@ -25,8 +25,8 @@ print (name,age,height )
 x=y=z=4
 print (x+y+z)  # 12
 
+#Output:-
 '''
-Output:-
 my name is Rana
 <class 'str'>
 my age is 23
