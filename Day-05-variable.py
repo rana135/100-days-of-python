@@ -1,4 +1,3 @@
-# Day:5--> Python Variable:-
 # Variable হচ্ছে একটা Container যেটার ভিতর information store করে রাখতে পারি, delete করতে পরি বা update করতে পারি।
 # 1) string
 name = 'Rana'
@@ -21,3 +20,17 @@ name, age ,height = 'Rana',23,170.18
 print (name,age,height )
 x=y=z=4
 print (x+y+z)  # 12
+
+'''
+Output:-
+my name is Rana
+<class 'str'>
+my age is 23
+<class 'int'>
+my height is 170.18 cm
+<class 'float'>
+I love coding: True
+<class 'bool'>
+Rana 23 170.18
+12
+'''
