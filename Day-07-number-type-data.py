@@ -22,8 +22,8 @@ weight = 80j
 print ('my weight is',height, 'kg' )
 print (type(weight ))
 
+#Output:-
 '''
-Output:-
 my age is 23
 <class 'int'>
 my height is 170.18 cm
