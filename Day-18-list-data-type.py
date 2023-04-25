@@ -1,3 +1,5 @@
+# list একটা single variable কিন্তু এর মধ্যে multiple item add করতে পারবো। যা কিনা Mutable এবং এটি যেকোন data type এর হতে পারে।
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist))           # 3
 print(thislist)                # ['apple', 'banana', 'cherry']
