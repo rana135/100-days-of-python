@@ -1,10 +1,8 @@
 '''
 একটা data type থেকে অন্য একটা data type এ dynamically convert করা। আর সেটি করার সময় যে function টি
 ব্যবহার করা হবে সেটিকে type casting বলা হয়।
-'''
 
-'''
-python is therefore done using constructor functions:
+নিচের এই 3টি function use করে একটি থেকে আরেকটিতে convert করা হয়:-
 int()
 float()
 str()
