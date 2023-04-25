@@ -9,6 +9,7 @@ print(thislist1)          # ['blackcurrant', 'watermelon', 'cherry']
 
 thislist1[1] = "Mango"
 print(thislist1)           # ['apple', 'Mango', 'cherry']
+
 '''
 Negative Indexing:-
 -1 refers to the last item and -2 refers to the second last item
@@ -35,7 +36,6 @@ print(thislist[-4:-1])  # ['orange', 'kiwi', 'melon']
 thislist = ["apple", "banana", "cherry"]
 if "apple" in thislist:
   print("Yes, 'apple' is in the fruits list")
-
 
 # The insert() method inserts an item at the specified index:
 thislist3 = ["apple", "banana", "cherry"]
