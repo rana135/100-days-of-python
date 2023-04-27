@@ -1,3 +1,5 @@
+# link:- https://www.pythontutorial.net/python-basics/python-list-comprehensions/ 
+
 # comprehension দিয়ে যেকোন সংখ্যাকে squares করা:
 numbers = [1,2,3,4,5]
 squares = [number**2 for number in numbers]
