@@ -13,7 +13,6 @@ Python has a set of built-in methods that you can use on lists:-
     sort()	    Sorts the list
 '''
 
-
 # Add an element to the fruits list:
 fruits = ['apple', 'banana', 'cherry']
 fruits.append("orange")
