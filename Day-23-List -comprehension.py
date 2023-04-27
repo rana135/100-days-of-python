@@ -1,4 +1,11 @@
-# link:- https://www.pythontutorial.net/python-basics/python-list-comprehensions/ 
+# link:- https://www.pythontutorial.net/python-basics/python-list-comprehensions/
+'''
+Comprehension মূলত existing যেই list টা আছে সেটাকে নতুন করে তৈরী করে 1 লাইনে। এই Comprehension এর মধ্যে চাইলে for loop, range, mapping করতে পারি।
+
+Comprehension এর মধ্যে 3টা জিনিস maintain করতে হয়:
+1/শুরুতে Expression (কি করবো)  2/ শেষে-কাকে দিয়ে করবো   3/ কার ভিতরে strore করে রাখবো।
+[Tecnique:- দ্বিগুন করবো ও for loop চালাবো ]
+'''
 
 # comprehension দিয়ে যেকোন সংখ্যাকে squares করা:
 numbers = [1,2,3,4,5]
